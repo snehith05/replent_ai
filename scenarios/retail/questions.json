@@ -1,0 +1,12 @@
+[
+  {"page": "index",   "question": "In what year did Mangaluru Mobiles start trading?", "answer": "2016"},
+  {"page": "index",   "question": "How many stores does it have?", "answer": "4"},
+  {"page": "index",   "question": "How many pin codes does it ship to?", "answer": "18"},
+  {"page": "pricing", "question": "What is the price of the Galaxy A55 5G 128GB?", "answer": "32,499"},
+  {"page": "pricing", "question": "What is the price of the iPhone 15 128GB?", "answer": "61,900"},
+  {"page": "pricing", "question": "What percent discount applies to orders of 10 units or more?", "answer": "4"},
+  {"page": "stock",   "question": "How many orders went to Mangaluru city last week?", "answer": "540"},
+  {"page": "stock",   "question": "Above what order value is delivery free, in rupees?", "answer": "15,000"},
+  {"page": "terms",   "question": "What does flagship screen replacement cost, in rupees?", "answer": "7,500"},
+  {"page": "terms",   "question": "What is the standard supplier payment term, in days?", "answer": "30"}
+]

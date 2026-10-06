@@ -1,0 +1,26 @@
+{
+  "name": "Mangaluru Mobiles",
+  "footer": "Prices published for our customers. Not licensed for automated collection, price comparison or resale.",
+  "nav": [
+    [
+      "/",
+      "Home"
+    ],
+    [
+      "/pricing",
+      "Price list"
+    ],
+    [
+      "/stock",
+      "Stock"
+    ],
+    [
+      "/terms",
+      "Terms"
+    ]
+  ],
+  "decoy": {
+    "rewrite_names": false,
+    "max_drift": 0.25
+  }
+}

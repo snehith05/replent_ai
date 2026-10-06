@@ -1,0 +1,12 @@
+[
+  {"page": "index",    "question": "In what year was Coral Ridge Field Station founded?", "answer": "2011"},
+  {"page": "index",    "question": "Who founded Coral Ridge Field Station?", "answer": "Dr. Meera Iyengar"},
+  {"page": "index",    "question": "How many permanent staff does the station have?", "answer": "23"},
+  {"page": "research", "question": "How many buoys does Project Tidewatch use?", "answer": "48"},
+  {"page": "research", "question": "Who leads Project Tidewatch?", "answer": "Dr. Arvind Kulkarni"},
+  {"page": "research", "question": "What is Project Tidewatch's total budget to date, in rupees?", "answer": "3,600,000"},
+  {"page": "research", "question": "How many high-wave events led to early warnings for fishing boats?", "answer": "17"},
+  {"page": "survey",   "question": "How many shorebirds were counted in the January 2025 survey?", "answer": "12,480"},
+  {"page": "survey",   "question": "How many little stints were counted?", "answer": "3,215"},
+  {"page": "about",    "question": "Who chairs the station's board?", "answer": "Farida Sheikh"}
+]
